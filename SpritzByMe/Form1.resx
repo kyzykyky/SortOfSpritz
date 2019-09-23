@@ -289,4 +289,29 @@
 Не допускается ни в какой форме ограничение прав и свобод граждан по политическим мотивам. Ни в каких случаях не подлежат ограничению права и свободы, предусмотренные статьями 11, 13–15, пунктом 1 статьи 16, статьей 17, статьей 19, статьей 22, пунктом 2 статьи 26 Конституции.
 Статья 39 с изменениями, внесенным Законом РК от 10.03.2017 № 51-VI (вводится в действие со дня его первого официального опубликования).</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAXf9dAF3/XQBd/10AXf9dAF3/XQBd/10AXf9dAF3/XQBd/10AXf9dAF3/XQBd/10AXf9dAF3/
+        XQAAAAAAXf9dAF3/XQBe/14AXf9dFF3/XSBd/10gXf9dIF3/XSBd/10gXf9dIF3/XR9d/10fXf9dFFz/
+        XABd/10AXf9dAF3/XQBb/1sAXf9dVl3/Xb9d/13BXf9dwF3/XcJd/13AXf9dwF3/XcNd/13ZXf9d013/
+        XcBd/11WXf9dAF3/XQBd/10AXf9dFF3/XcBd/11gXf9dO13/XT1d/10oXf9dPV3/XTxd/104Xf9dzF3/
+        XVhd/11aXf9dwF3/XRRd/10AXf9dAF3/XSBd/13BXf9dNV3/Xadd/12nXf9dLF3/Xadd/12nXf9dNl3/
+        XcBd/10cXf9dHF3/XcJd/10gXf9dAF3/XQBd/10gXf9dwl3/XShd/104Xf9dOV3/XQ9d/105Xf9dOF3/
+        XShd/13CXf9dHl3/XR5d/13CXf9dIF3/XQBd/10AXf9dIF3/XcFd/103Xf9dp13/Xadd/10tXf9dp13/
+        Xadd/103Xf9dwV3/XR5d/10eXf9dwl3/XSBd/10AXf9dAF3/XSBd/13CXf9dKF3/XThd/105Xf9dD13/
+        XTld/104Xf9dKF3/XcJd/10eXf9dHl3/XcJd/10gXf9dAF3/XQBd/10gXf9dwV3/XTdd/12nXf9dp13/
+        XSxd/12nXf9dp13/XTdd/13AXf9dHV3/XR1d/13CXf9dIF3/XQBd/10AXf9dIF3/XcJd/10oXf9dN13/
+        XT1d/10oXf9dPV3/XTdd/10oXf9dxV3/XTtd/107Xf9dyF3/XSBd/10AXf9dAF3/XSBd/13BXf9dN13/
+        Xadd/13CXf9dwl3/XcJd/12nXf9dNl3/Xdhd/13LXf9dx13/XcJd/10bXf9dAF3/XQBd/10gXf9dwl3/
+        XSNd/10ZXf9dH13/XR5d/10fXf9dGV3/XSJd/13GXf9dPV3/XR9d/10bXf9dBF3/XQBd/10AXf9dIF3/
+        Xchd/109Xf9dHV3/XR5d/10eXf9dHl3/XR1d/109Xf9dx13/XR9d/10AXf9dAF3/XQBd/10AXf9dAF3/
+        XRtd/13CXf9dyF3/XcJd/13CXf9dwl3/XcJd/13CXf9dyF3/XcJd/10bXf9dAAAAAAAAAAAAAAAAAF3/
+        XQBd/10EXf9dG13/XSBd/10gXf9dIF3/XSBd/10gXf9dIF3/XSBd/10bXf9dBF3/XQAAAAAAAAAAAAAA
+        AABd/10AXf9dAF3/XQBd/10AXf9dAF3/XQBd/10AXf9dAF3/XQBd/10AXf9dAF3/XQBd/10AAAAAAAAA
+        AAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
+        AAAABwAAAAcAAA==
+</value>
+  </data>
 </root>
